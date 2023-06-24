@@ -1,5 +1,3 @@
-print("Programa para resolver ax^2 + bx + c = y")
-
 # Atribuição de variáveis
 
 # Entrada de dados
