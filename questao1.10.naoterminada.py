@@ -14,4 +14,4 @@ v = cap*(1+(r/100))**t
 
 # Saída de dados
 
-print("O valor capitalizado é R$)
+print("O valor capitalizado é R$%.2f" % v)
